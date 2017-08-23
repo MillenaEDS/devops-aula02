@@ -1,4 +1,5 @@
 # devops-aula02
 Caio
-João
+Cleiton
 Paulo
+Wellington
